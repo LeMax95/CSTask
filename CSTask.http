@@ -1,0 +1,6 @@
+@CSTask_HostAddress = http://localhost:5204
+
+GET {{CSTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

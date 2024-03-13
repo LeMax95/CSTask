@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 2,
+    "Name": "Jane Smith",
+    "RegisterDate": "2023-03-11",
+    "Address": "456 Elm St",
+    "Phone": "555-5678"
+  },
+  {
+    "Id": 3,
+    "Name": "Alice Johnson",
+    "RegisterDate": "2023-03-12",
+    "Address": "789 Oak St",
+    "Phone": "555-9012"
+  },
+  {
+    "Id": 1322051654,
+    "Name": "Max",
+    "RegisterDate": "10.03.2024",
+    "Address": "Alba-Iulia97%2F2 ap.3",
+    "Phone": "079090143"
+  },
+  {
+    "Id": 828932473,
+    "Name": "Maxim Leconiuc",
+    "RegisterDate": "12.12.195",
+    "Address": "Alba iulia 97%2F2 ap.3",
+    "Phone": "79090143"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "BorrowedBookID": 127758491,
+    "ClientID": 1320931383,
+    "BookID": 1322051654,
+    "BorrowDate": "12.12.1995"
+  },
+  {
+    "BorrowedBookID": 170817512,
+    "ClientID": 1320931383,
+    "BookID": 1322051654,
+    "BorrowDate": "12.12.1995"
+  },
+  {
+    "BorrowedBookID": 1473869545,
+    "ClientID": 1320931383,
+    "BookID": 1322051654,
+    "BorrowDate": "12.12.1995"
+  },
+  {
+    "BorrowedBookID": 1077920573,
+    "ClientID": 2080525647,
+    "BookID": 1320931383,
+    "BorrowDate": "12.12.1995"
+  },
+  {
+    "BorrowedBookID": 440648089,
+    "ClientID": 1320931383,
+    "BookID": 1320931383,
+    "BorrowDate": "12.12.2024"
+  },
+  {
+    "BorrowedBookID": 382898274,
+    "ClientID": 1320931383,
+    "BookID": 1320931383,
+    "BorrowDate": "25"
+  }
+]

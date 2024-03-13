@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 2080525647,
+    "Title": "FemDom Party",
+    "Author": "LeMAx",
+    "Genre": "Pornography",
+    "PageNr": 560,
+    "NrStock": 799
+  },
+  {
+    "Id": 1807393788,
+    "Title": "Zo Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Genre": "Fiction",
+    "PageNr": 581,
+    "NrStock": 10
+  },
+  {
+    "Id": 2056802574,
+    "Title": "Lo Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Genre": "Fiction",
+    "PageNr": 381,
+    "NrStock": 10
+  },
+  {
+    "Id": 1320931383,
+    "Title": "Mo Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Genre": "Horror",
+    "PageNr": 281,
+    "NrStock": 0
+  },
+  {
+    "Id": 231913881,
+    "Title": "Wild Side",
+    "Author": "G.A.Niemitz",
+    "Genre": "Horror",
+    "PageNr": 350,
+    "NrStock": 149
+  },
+  {
+    "Id": 1697109577,
+    "Title": "test",
+    "Author": "test",
+    "Genre": "test",
+    "PageNr": 345,
+    "NrStock": 11
+  }
+]
